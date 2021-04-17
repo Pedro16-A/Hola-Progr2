@@ -1,1 +1,2 @@
-# Hola-Progr2
+# Nombre:Pedro Silva.
+Carrera: Ing.Telematica.
