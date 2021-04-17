@@ -1,2 +1,2 @@
 # Nombre:Pedro Silva.
-Carrera: Ing.Telematica.
+# Carrera: Ing.Telematica.
