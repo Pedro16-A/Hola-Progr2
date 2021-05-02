@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.exe
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.deps.json
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.runtimeconfig.json
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.dll
+C:\Users\Pedro\Desktop\tarea02\empleado\bin\Debug\netcoreapp3.1\empleado.pdb
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.dll
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.pdb
+C:\Users\Pedro\Desktop\tarea02\empleado\obj\Debug\netcoreapp3.1\empleado.genruntimeconfig.cache
