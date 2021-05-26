@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.exe
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.deps.json
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.runtimeconfig.json
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.dll
+C:\Users\Pedro\Desktop\figuras\figuras_\bin\Debug\netcoreapp3.1\figuras_.pdb
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.dll
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.pdb
+C:\Users\Pedro\Desktop\figuras\figuras_\obj\Debug\netcoreapp3.1\figuras_.genruntimeconfig.cache
